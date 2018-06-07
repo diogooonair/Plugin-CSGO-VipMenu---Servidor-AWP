@@ -1,3 +1,2 @@
 # CSGO Plugin-VipMenu---Servidor-AWP
-download
-https://github.com/diogooonair/CSGO-VipMenu---Servidor-AWP/releases
+Este E Um Vipmenu para servidores de awp com varias funçoes pode ser utilizado em outros servidores mas e recomendado para awp
